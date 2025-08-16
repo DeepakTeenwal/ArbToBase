@@ -1,0 +1,31 @@
+{
+  "frame": {
+    "name": "Arb to Base",
+    "version": "1",
+    "iconUrl": "https://arb-to-base.vercel.app/icon.png",
+    "homeUrl": "https://arb-to-base.vercel.app",
+    "imageUrl": "https://arb-to-base.vercel.app/image.png",
+    "buttonTitle": "Jump Chains",
+    "splashImageUrl": "https://arb-to-base.vercel.app/splash.png",
+    "splashBackgroundColor": "#000000",
+    "webhookUrl": "https://arb-to-base.vercel.app/api/webhook",
+    "subtitle": "Arb to base ",
+    "description": "Arb vs Base ",
+    "primaryCategory": "games",
+    "tags": [
+      "base",
+      "arb",
+      "ewcl",
+      "farcaster",
+      "jessepollak"
+    ],
+    "tagline": "Hop the chain, keep the gain.",
+    "ogTitle": "“Hop from Arb to Base ",
+    "ogDescription": "Your journey doesn’t end on Arb — Base is the next step"
+  },
+  "accountAssociation": {
+    "header": "",
+    "payload": "",
+    "signature": ""
+  }
+}
