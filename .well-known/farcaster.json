@@ -1,4 +1,10 @@
 {
+  {
+  "accountAssociation": {
+    "header": "eyJmaWQiOjE4MzAxLCJ0eXBlIjoiY3VzdG9keSIsImtleSI6IjB4QTIzMjRiZmY0NTE0QkVmMTA5RmY5ZGNDZTg0ZTA2RDg3MjI2NzNGYyJ9",
+    "payload": "eyJkb21haW4iOiJhcmItdG8tYmFzZS52ZXJjZWwuYXBwIn0",
+    "signature": "MHgyY2UyOTc3MWQwMzA5MjBhNDhlMjY5NjY3NWNmZjg0N2ZlYTY0NDVjMGNhN2I1MjIxMzFjZDU3ZjE1YzY1N2U2NTVhNzFlYjZkYzBlMWRmYjUxMGIwNTNlZDU0ZTM3Njg2OTNjZmZiNDdkNDI2Njc5NTJlOGZhMDMxYzk0ZThjZDFj"
+  }
   "frame": {
     "name": "Arb to Base",
     "version": "1",
