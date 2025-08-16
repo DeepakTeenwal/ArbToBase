@@ -4,29 +4,29 @@
     "payload": "eyJkb21haW4iOiJhcmItdG8tYmFzZS52ZXJjZWwuYXBwIn0",
     "signature": "MHgyY2UyOTc3MWQwMzA5MjBhNDhlMjY5NjY3NWNmZjg0N2ZlYTY0NDVjMGNhN2I1MjIxMzFjZDU3ZjE1YzY1N2U2NTVhNzFlYjZkYzBlMWRmYjUxMGIwNTNlZDU0ZTM3Njg2OTNjZmZiNDdkNDI2Njc5NTJlOGZhMDMxYzk0ZThjZDFj"
   }
-  "frame": {
+"frame": {
     "name": "Arb to Base",
     "version": "1",
     "iconUrl": "https://arb-to-base.vercel.app/icon.png",
     "homeUrl": "https://arb-to-base.vercel.app",
     "imageUrl": "https://arb-to-base.vercel.app/image.png",
-    "buttonTitle": "Jump Chains",
+    "buttonTitle": "Hop from Arb to Base",
     "splashImageUrl": "https://arb-to-base.vercel.app/splash.png",
     "splashBackgroundColor": "#000000",
     "webhookUrl": "https://arb-to-base.vercel.app/api/webhook",
-    "subtitle": "Arb to base ",
-    "description": "Arb vs Base ",
+    "subtitle": "Arb to base",
+    "description": "Connecting ecosystems — empowering users to go from Arbitrum to Base with ease",
     "primaryCategory": "games",
     "tags": [
-      "base",
       "arb",
+      "base",
       "ewcl",
       "farcaster",
       "jessepollak"
     ],
-    "tagline": "Hop the chain, keep the gain.",
-    "ogTitle": "“Hop from Arb to Base ",
-    "ogDescription": "Your journey doesn’t end on Arb — Base is the next step"
+    "tagline": "Hop the chain, keep the gain",
+    "ogTitle": "Cross-Chain Made Simple",
+    "ogDescription": "The fastest way to experience Base, starting from Arbitrum"
   },
   "accountAssociation": {
     "header": "",
